@@ -1,5 +1,6 @@
-﻿using System;
-namespace PrimeNumberNumber
+﻿using primeNumber;
+using System;
+namespace PrimeNumber
 {
     class Program
     {
@@ -10,3 +11,6 @@ namespace PrimeNumberNumber
         }
     }
 }
+
+        
+     
