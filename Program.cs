@@ -1,4 +1,3 @@
-﻿using primeNumber;
 using System;
 namespace PrimeNumber
 {
