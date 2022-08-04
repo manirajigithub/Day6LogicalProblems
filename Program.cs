@@ -6,8 +6,8 @@ namespace PerfectNumber
     {
         static void Main(string[] args)
         {
-            UC2_PerfectNumber.CheckUC2_PerfectNumber();
+
+            UC2_PerectNumber.CheckUC2_PerfectNumber();
         }
     }
 }
-
