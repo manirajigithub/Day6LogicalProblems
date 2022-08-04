@@ -1,0 +1,5 @@
+C:\Users\mani1\source\repos\FibonacciSeries\primeNumber\obj\Debug\net6.0\primeNumber.csproj.AssemblyReference.cache
+C:\Users\mani1\source\repos\FibonacciSeries\primeNumber\obj\Debug\net6.0\primeNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mani1\source\repos\FibonacciSeries\primeNumber\obj\Debug\net6.0\primeNumber.AssemblyInfoInputs.cache
+C:\Users\mani1\source\repos\FibonacciSeries\primeNumber\obj\Debug\net6.0\primeNumber.AssemblyInfo.cs
+C:\Users\mani1\source\repos\FibonacciSeries\primeNumber\obj\Debug\net6.0\primeNumber.csproj.CoreCompileInputs.cache
