@@ -8,6 +8,7 @@ namespace StopWatch
         {
 
             UC6_StopWatch.CheckUC6_StopWatch();
+            
         }
     }
 }
